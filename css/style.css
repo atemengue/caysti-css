@@ -1,0 +1,29 @@
+/** @format */
+
+body {
+  background-color: #f1f5f9;
+}
+
+header {
+  background-color: white;
+  padding: 0.8rem 1.4rem;
+  min-width: 767px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+ul li {
+  margin: 1.5rem 1.4rem;
+  border-bottom: 2px solid black;
+}
+
+ul li a {
+  color: #333;
+  text-decoration: none;
+  mar
+}
+
+/* Generic Styles End */
